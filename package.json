@@ -1,15 +1,15 @@
 {
   "name": "req-bans",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
-  "homepage": "https://github.com/eliasy0412/req-ban",
+  "homepage": "https://github.com/takeshiproton/req-bans",
   "bugs": {
-    "url": "https://github.com/eliasy0412/req-ban/issues"
+    "url": "https://github.com/takeshiproton/req-bans/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eliasy0412/req-ban.git"
+    "url": "https://github.com/takeshiproton/req-bans.git"
   },
   "license": "MIT",
   "author": "Tomi Kano <kn.tomi0516@gmail.com>",
